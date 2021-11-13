@@ -1,4 +1,4 @@
-# A1_F21_ForkMe## Rock Paper Scissors - Python text-based take on a classic!
+# Rock Paper Scissors - Python text-based take on a classic!
 
 Pick your weapon and play against the computer - you'll only get a virtual sting if you lose!
 
