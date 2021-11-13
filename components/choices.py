@@ -3,5 +3,5 @@ weapon = ["rock", "paper", "scissors"]
 
 player = False
 
-playerlives = 2
+playerslives = 2
 CPUlives = 2
